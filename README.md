@@ -5,6 +5,8 @@
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/591/original/vue-soft-ui-dashboard.jpg)
 
 # Install :   
+# git clone git@github.com:NguyenVanManh-AI/Vue.git
+# cd Vue 
 # npm i 
 # npm run serve
 
