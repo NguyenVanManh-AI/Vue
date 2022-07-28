@@ -4,9 +4,9 @@
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/591/original/vue-soft-ui-dashboard.jpg)
 
-**Install : 
-1. npm i 
-2. npm run serve
+# [Install]  
+# npm i 
+# npm run serve
 
 Start your Development with an Innovative Admin Template for Bootstrap 5 and VueJS 3. If you like the look & feel of the hottest design trend right now, Soft UI, you will fall in love with this dashboard! It features a huge number of components built to fit together and look amazing.
 
