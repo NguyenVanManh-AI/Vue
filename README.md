@@ -4,7 +4,7 @@
 
 ![Image](https://s3.amazonaws.com/creativetim_bucket/products/591/original/vue-soft-ui-dashboard.jpg)
 
-# [Install]  
+# Install :   
 # npm i 
 # npm run serve
 
